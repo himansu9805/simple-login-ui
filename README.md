@@ -1,10 +1,14 @@
-# simple_login
+# Simple Login UI
 
-A new Flutter project.
+## Introduction:
 
-## Getting Started
+This is the template code for a simple login UI. No Voice coding for this on [YouTube](https://youtube.com).
 
-This project is a starting point for a Flutter application.
+## Preview:
+
+![Preview](previews/preview_1.gif)
+
+## For Beginners
 
 A few resources to get you started if this is your first Flutter project:
 
