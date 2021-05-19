@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-This is the template code for a simple login UI. No Voice coding for this on [YouTube](https://youtube.com).
+This is the template code for a simple login UI. No Voice coding for this on [YouTube](https://youtu.be/0cYpETCvKyI).
 
 ## Preview:
 
